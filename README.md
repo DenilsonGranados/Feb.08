@@ -1,2 +1,2 @@
 # Feb.08
-In class following of Feb.08 (Computing of Civil)
+In class example of Feb.08 (Computing of Civil)
